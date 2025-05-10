@@ -17,7 +17,7 @@ export default function BoyutSecimi({ sizes }) {
           
           return(
             <>
-            <input key={index} name="boyutlar" type="radio" onClick={clickButton} />
+            <input name="boyutlar" type="radio" onClick={clickButton} />
             {size}
             </>
           ) 
