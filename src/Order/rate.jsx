@@ -5,7 +5,7 @@ export default function Rate ({price,rateScore,reviewCount}) {// price, rate sco
     return (
         <>
           <span>{price}$</span>
-          <p style={{fontSize : '10px'}} >{rateScore}</p>
+          <p style={{fontSize : '25px'}} >{rateScore}</p>
           <p >({reviewCount})</p>
         </>
       );

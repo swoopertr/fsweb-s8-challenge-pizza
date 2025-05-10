@@ -1,0 +1,62 @@
+.header-class {
+    background-color: #d32f2f;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.order-derscription{
+    padding: 20px;
+    padding-left: 30px;
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    width: 532px;
+    margin: auto;
+}
+
+.price-review{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    margin-top: 10px;
+}
+
+.order-image-container{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    overflow: hidden;
+}
+
+.image-class {
+    width: 581px; 
+    margin-top: -76px ;     
+}
+
+.pizza-header{
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: black;
+    text-align: left;
+    margin-left: 30px;
+}
+
+.bread-crumb {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    padding: 20px;
+    color: black;
+    font-size: 10px;
+    margin-Left: 10px;
+}
+.rate {
+ font-size: 25px;
+ display: inline-block;
+ margin-right: 5px;
+}
